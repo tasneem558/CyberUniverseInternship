@@ -1,4 +1,4 @@
-## Day 01 - Git Practice
+# Day 01 - Git Practice
 
 ## Commands I Practiced:
 - pwd
@@ -27,6 +27,7 @@ I tried to remove a non-existing file, so an error appeared
 rm newfile.txt                                                                                                 
 rm: cannot remove 'newfile.txt': No such file or directory
 This happened because the file was not created before trying to remove it.
+![error message](error.png)
 
 ## Most Useful Command:
 I found `ls` very useful to always check changes in files (create, remove, move, and copy)
