@@ -5,7 +5,7 @@ Before running any services, I performed scans to check the default security sta
 - **Result:** All 1000 ports were **Closed**. 
 - **Observation:** This indicates that no services were listening for connections, which is a secure default state.
 
-![Initial Scanning - All Ports Closed](init.jpg)
+![Initial Scanning - All Ports Closed](init.png)
 
 
 ## 2. Active State (After Opening a Port)
